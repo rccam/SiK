@@ -8,6 +8,7 @@ To fix that replace with folder https://github.com/rccam/SiK/tree/master/Mono.Po
 Another ways:
   -install mono 4.2.1.102 (https://download.mono-project.com/archive/4.2.1/)
   -xbuild SIKUloader.csproj
+  
 Or:
   -install mono 4.2.1.102 (https://download.mono-project.com/archive/4.2.1/)
   - manual copy *.targets and *.tasks files from /Mono/lib/mono/4.5/ to /Mono/lib/mono/3.5/
