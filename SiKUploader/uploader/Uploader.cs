@@ -315,7 +315,7 @@ namespace uploader
 			send (Code.EOC);
 			
 			id = (Code)recv ();
-			freq = (Code)recv ();
+			freq = (Code)recv ();	//xbuild warn freq defined but not used
 			
 			// XXX should be getting valid board/frequency data from firmware file
 			if ((id != Code.DEVICE_ID_HM_TRP) && (id != Code.DEVICE_ID_RF50))
