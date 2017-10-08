@@ -1,4 +1,4 @@
-Currently with mono 5.0.1.1 or 5.2.0.179beta is impossible to build because of error connectet with mono
+Currently with mono 5.0.1.1 or 5.2.0.179beta is impossible to build because of error connected with mono
 https://github.com/mono/mono/commit/249ee0686bf87f33acf2efde76f3645ef06bb886
 (EntryPoint="Mono_Unix_VersionString"  causing problem)
 
